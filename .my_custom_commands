@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# NAVIGATE TO HTDOCS
+function htdocs() {
+echo "➡️  navigate to htdocs"
+cd '/Applications/MAMP/htdocs/'
+echo "➡️  current directories"
+ls
+}
