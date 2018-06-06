@@ -2,8 +2,6 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 export PATH=/usr/local/share/npm/bin:$PATH
 
-# export PATH="$HOME/.npm-packages/bin:$PATH"
-
 # Path to your oh-my-zsh installation.
 export ZSH=/Users/steijehillewaert/.oh-my-zsh
 
@@ -97,3 +95,6 @@ source /Users/steijehillewaert/.profile
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+source ~/.my_custom_commands.sh
+
